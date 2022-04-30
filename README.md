@@ -1,7 +1,7 @@
 # ROS Wrapper for Intel&reg; RealSense&trade; Devices
 These are packages for using Intel RealSense cameras (D400 series SR300 camera and T265 Tracking Module) with ROS.
 
-This version supports Kinetic, Melodic and Noetic distributions.
+This version offers limites support for d400 cameras on Kinetic, Melodic and Noetic distributions, specifically [excluding the d405](https://github.com/IntelRealSense/realsense-ros/issues/2290) camera which is only supported with the ROS2 wrapper.
 
 For running in ROS2 environment please switch to the [ros2 branch](https://github.com/IntelRealSense/realsense-ros/tree/ros2-beta). </br>
 
